@@ -1,0 +1,73 @@
+
+
+*{
+
+    margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+text-transform: capitalize;
+}
+
+.box1{
+
+height: 100vh;
+width: 100%;
+background-image: url("images/himaliya\ mountains.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+
+.box2{
+
+    height: 100vh;
+    width: 100%;
+    background-image: url("images/mountains.png"); 
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+.box3{
+
+    height: 100vh;
+    width: 100%;
+    background-image: url("images/road.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+h1{
+
+font-size: 48px;
+color: #00f0c0;
+font-family: 'Times New Roman', Times, serif;
+margin: 0px;
+text-align:center;
+position: relative;
+top: 40%;
+
+}
+
+
+
+#color{
+
+color: #65bdd1;
+ 
+
+
+
+
+
+
+}
